@@ -281,6 +281,7 @@ Triggered by GitHub pushes — automates pull → build → push to Docker Hub �
 
 <img width="1625" height="768" alt="Screenshot 2025-08-01 191556" src="https://github.com/user-attachments/assets/765614a1-97e9-4b94-915a-762c44e267eb" />
 
+<img width="1153" height="260" alt="Screenshot 2025-12-26 113945" src="https://github.com/user-attachments/assets/f22b9a9f-09ce-4dcb-b321-9aaf5dcd598a" />
 
 ---
 
