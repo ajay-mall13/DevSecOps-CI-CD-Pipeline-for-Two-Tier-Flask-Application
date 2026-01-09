@@ -283,6 +283,9 @@ Triggered by GitHub pushes — automates pull → build → push to Docker Hub �
 
 <img width="1153" height="260" alt="Screenshot 2025-12-26 113945" src="https://github.com/user-attachments/assets/f22b9a9f-09ce-4dcb-b321-9aaf5dcd598a" />
 
+<img width="1058" height="312" alt="Screenshot 2026-01-09 190526" src="https://github.com/user-attachments/assets/38064810-5d9f-49d3-b238-6153856d0073" />
+
+
 ---
 
 ### 🗄️ MySQL Database View  
